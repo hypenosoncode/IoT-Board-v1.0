@@ -8,7 +8,7 @@ In this project, a PCB design that will set an example for IoT systems has been 
 
 # RS485 COMMUICATION
 Faster communication can be made using RS485 communication. In addition, condition monitoring of new generation devices is ensured by using RS485.
-![image](https://user-images.githubusercontent.com/74931027/210184762-984e193b-da00-45a4-bd0c-292d28fb4d54.png)
+![image](https://user-images.githubusercontent.com/74931027/210184883-5f5487ce-527a-4ae9-ba60-4acc4a19f170.png)
 
 # POWER SYSTEM
 230VAC-6VAC Transformer(After Bridge Diode ~9VDC Output) & 9VDC-5VDC Regulated Converter & 5VDC-3.3VDC Regulated Converter(ESP32)
