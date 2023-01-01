@@ -16,6 +16,8 @@ Faster communication can be made using RS485 communication. In addition, conditi
 The reliability of the system was ensured by using varistors in the project.
 ![image](https://user-images.githubusercontent.com/74931027/210184809-f4010c8e-ad2d-49cd-82a1-5380a3cc9e6b.png)
 
+...This PCB designed by Altium Designer...
+
 📧 &nbsp;If you have any problems you can send me an email at cinarismailselcuk@gmail.com I will try to answer as soon as possible.
 ### 🤝🏻 &nbsp;Contact Me & Social Media
 
