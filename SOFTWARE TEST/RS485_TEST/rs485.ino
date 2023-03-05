@@ -1,4 +1,4 @@
-#include <ModbusRTU.h> // Library: https://github.com/emelianov/modbus-esp8266
+#include <ModbusRTU.h> // Library: https://github.com/emelianov/modbus-esp826
 #include <SoftwareSerial.h>
 #include "IntToFloat.h"
 
