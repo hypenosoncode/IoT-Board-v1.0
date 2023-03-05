@@ -11,7 +11,7 @@ Faster communication can be made using RS485 communication. In addition, conditi
 ![image](https://user-images.githubusercontent.com/74931027/210184883-5f5487ce-527a-4ae9-ba60-4acc4a19f170.png)
 
 # POWER SYSTEM
-30VAC-6VAC Transformer(After Bridge Diode ~9VDC Output) & 9VDC-5VDC Regulated Converter & 5VDC-3.3VDC Regulated Converter(ESP32)
+230VAC-6VAC Transformer(After Bridge Diode ~9VDC Output) & 9VDC-5VDC Regulated Converter & 5VDC-3.3VDC Regulated Converter(ESP32)
 
 The reliability of the system was ensured by using varistors in the project.
 ![image](https://user-images.githubusercontent.com/74931027/210184809-f4010c8e-ad2d-49cd-82a1-5380a3cc9e6b.png)
